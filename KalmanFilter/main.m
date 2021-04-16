@@ -1,7 +1,4 @@
 
-clear
-clc
-close all
 % Number of data points for measurement generation
 N = 10;
 % Define prior state and Covariance
